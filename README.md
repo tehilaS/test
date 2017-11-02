@@ -1,6 +1,6 @@
 # Front-End-Beginners---Assignment-1
 
-## Basic html page
+## Basic html pagecs
 ```HTML
 <!doctype html>
 <html>
